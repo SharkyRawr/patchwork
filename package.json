@@ -73,7 +73,7 @@
     "ssb-conn": "~5.1.0",
     "ssb-db": "^20.4.0",
     "ssb-dht-invite": "^2.0.0",
-    "ssb-ebt": "^5.6.7",
+    "ssb-ebt": "^7.0.2",
     "ssb-friends": "^4.4.7",
     "ssb-invite": "^2.1.7",
     "ssb-keys": "^8.0.1",
